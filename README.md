@@ -11,6 +11,8 @@
 
 📈 Build visualizations for decision-making.
 
+📊 Create interactive dashboards using Power BI
+
 --------
 🎯 Objectives:
 
@@ -23,6 +25,8 @@
 ✅ Identify trends & patterns.
 
 ✅ Analyze return impact on business.
+
+✅ Build interactive dashboard in Power BI
 
 -----------------------
 📂 Dataset Description:
@@ -95,6 +99,10 @@ Compare sales, profit, and quantity across regions
 Return vs non-return comparison
 Profit impact of returns
 
+📊 Power BI Dashboard
+Interactive dashboard with filters and KPIs
+Visual representation of sales, profit, and regional performance
+
 ----------------------------------------
 💡 Key Insights:
 
@@ -118,3 +126,7 @@ Profit impact of returns
 📉 Matplotlib, Seaborn
 
 📓 Jupyter Notebook
+
+📊 Power BI
+
+    
