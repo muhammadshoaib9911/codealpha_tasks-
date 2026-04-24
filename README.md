@@ -1,3 +1,5 @@
+TASK 3: Data Visualization
+--------------
 📊 Superstore Sales Data Analysis & Visualization
 -------------------------------
 
@@ -128,5 +130,113 @@ Visual representation of sales, profit, and regional performance
 📓 Jupyter Notebook
 
 📊 Power BI
+
+--------------
+TASK 2: Exploratory Data Analysis (EDA)
+---------
+📊 COVID-19 Data Analysis (EDA)
+-----------
+
+📌 Overview
+-----
+Performed Exploratory Data Analysis (EDA) on a COVID-19 dataset
+Focused on data cleaning, visualization, and statistical insights
+Aimed to uncover trends, relationships, and anomalies in the data
+-------
+🚀 Key Features
+------------
+✔️ Data loading and initial inspection
+
+✔️ Missing value detection and handling
+
+✔️ Duplicate data removal
+
+✔️ Univariate analysis (distribution of features)
+
+✔️ Bivariate analysis (feature relationships)
+
+✔️ Correlation analysis using heatmaps
+
+✔️ Outlier detection using IQR method
+
+✔️ Group-based aggregation and insights
+
+--------------
+🛠️ Tech Stack
+-------------
+
+Python
+
+Pandas – Data manipulation and analysis
+
+NumPy – Numerical computations
+
+Matplotlib – Basic data visualization
+
+Seaborn – Advanced statistical visualization
+
+-----------
+📊 Workflow
+-----------
+Data Import
+----------
+
+Loaded dataset using pandas.read_csv()
+
+-------
+Data Understanding
+----------
+
+Viewed dataset head, shape, and structure
+
+Generated summary statistics
+
+-----
+Data Cleaning
+-------
+
+Handled missing values using mean imputation
+
+Removed duplicate records
+
+-------
+Univariate Analysis
+----------
+
+Histogram plots for numerical features
+
+Count plots for categorical features
+
+---------
+Bivariate Analysis
+------------
+
+Scatter plots to identify relationships
+
+Box plots for category vs numerical comparisons
+
+Correlation Analysis
+
+Heatmap to visualize feature correlations
+
+-------------
+Outlier Detection
+--------------
+
+Identified using boxplots
+
+Applied IQR method for detection
+
+------------
+Group Analysis
+-----------
+
+Used groupby() for aggregated insights
+📈 Visualizations Included
+📊 Histograms
+📊 Count Plots
+📊 Scatter Plots
+📊 Box Plots
+📊 Correlation Heatmap
 
     
