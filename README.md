@@ -1,3 +1,112 @@
+Task 1: WEB SCRAPING
+-----------------------
+🕸️COVID-19 Web Scraping Project
+--------------------
+------------
+📌 Overview
+-------------
+
+Developed a web scraping solution to extract real-time COVID-19 data
+
+Collected structured data from a public website using Python
+
+Converted raw HTML data into a clean, analyzable dataset
+
+Prepared dataset for further analysis and visualization
+
+----------------
+🎯 Objectives
+---------------
+
+Extract COVID-19 statistics from a live website
+
+Understand HTML structure and data extraction techniques
+
+Build a custom dataset for analysis
+
+Practice data collection for real-world scenarios
+
+-----------------
+🌐 Data Source
+----------------
+
+Worldometer
+
+Publicly available COVID-19 statistics
+
+Data includes country-wise cases, deaths, and recoveries
+
+----------------
+🛠️ Tech Stack
+----------------
+
+Python
+
+Requests – HTTP requests handling
+
+BeautifulSoup – HTML parsing and scraping
+
+Pandas – Data structuring and storage
+
+----------------
+⚙️ Workflow
+---------------
+
+🔹 Data Extraction
+------------------
+
+Sent HTTP request to target webpage
+
+Parsed HTML content using BeautifulSoup
+
+Located data table using HTML tags and attributes
+
+------------------
+🔹 Data Processing
+------------------
+
+Extracted relevant fields:
+------------------
+
+Country
+
+Total Cases
+
+Total Deaths
+
+Total Recovered
+
+Cleaned text data (removed spaces, symbols, commas)
+
+-----------------
+🔹 Data Storage
+----------------
+
+Converted extracted data into Pandas DataFrame
+
+Exported dataset into CSV format for further use
+
+-------------------
+📊 Output Dataset
+------------------
+
+Structured dataset containing:
+
+Country-wise COVID-19 statistics
+
+-------------
+Ready for:
+-------------
+
+Data analysis
+
+Visualization
+
+Machine learning tasks
+
+-----------------------------
+===========================
+
 TASK 3: Data Visualization
 --------------
 📊 Superstore Sales Data Analysis & Visualization
